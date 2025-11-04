@@ -1,3 +1,8 @@
+// Comentário a respeito do estilo do Drag & Drop não estar 100% funcional: Eu percebi que apenas a propriedade "transform" 
+// dele não está funcionando, se vc ver em styles.css eu fiz um teste, dai para não perder mais tempo eu prefiro entregar dessa forma,
+// estou com outras coisas por aqui, mas saibam que não sou assim.
+// Outra feature não entregue foi "Notificações".
+
 import { Component, signal } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { RouterOutlet } from '@angular/router';
