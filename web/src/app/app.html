@@ -1,0 +1,25 @@
+<main class="todo-container">
+ <div class="add-task">
+    <input [(ngModel)]="newTask" placeholder="Enter new task" />
+    <button (click)="addTask()"> Add</button>
+ </div>
+<ul 
+  cdkDropList  
+  class="task-list"
+  (cdkDropListDropped)="drop($event)"
+  >
+  @for (item of todoList; track $index) {
+    <app-todo-item
+        class="todo-item" 
+        cdkDrag
+        [item]="item"
+        (deleteTask)="deleteTask(item.id)"
+        (toggleCompleted)="toggleCompleted(item)"
+      />
+  }
+  
+</ul>
+
+</main>
+
+<router-outlet />

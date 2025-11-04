@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AB4472-E019-4904-A1BD-1AC4298B3120}|api.Presentation\\api.Presentation.csproj|c:\\users\\jonatas\\desktop\\sites-e-webapps\\pessoais\\todolist-app\\api\\api.presentation\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AB4472-E019-4904-A1BD-1AC4298B3120}|api.Presentation\\api.Presentation.csproj|solutionrelative:api.presentation\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0CF86-EEA8-45E0-AE07-E8F443A54CBF}|api.Application\\api.Application.csproj|c:\\users\\jonatas\\desktop\\sites-e-webapps\\pessoais\\todolist-app\\api\\api.application\\usecaseimplementation\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0CF86-EEA8-45E0-AE07-E8F443A54CBF}|api.Application\\api.Application.csproj|solutionrelative:api.application\\usecaseimplementation\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0CF86-EEA8-45E0-AE07-E8F443A54CBF}|api.Application\\api.Application.csproj|c:\\users\\jonatas\\desktop\\sites-e-webapps\\pessoais\\todolist-app\\api\\api.application\\usecaseinterface\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0CF86-EEA8-45E0-AE07-E8F443A54CBF}|api.Application\\api.Application.csproj|solutionrelative:api.application\\usecaseinterface\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0510AE1-751D-47AD-B878-14A8C52C8527}|api.Infrastructure\\api.Infrastructure.csproj|c:\\users\\jonatas\\desktop\\sites-e-webapps\\pessoais\\todolist-app\\api\\api.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0510AE1-751D-47AD-B878-14A8C52C8527}|api.Infrastructure\\api.Infrastructure.csproj|solutionrelative:api.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0510AE1-751D-47AD-B878-14A8C52C8527}|api.Infrastructure\\api.Infrastructure.csproj|c:\\users\\jonatas\\desktop\\sites-e-webapps\\pessoais\\todolist-app\\api\\api.infrastructure\\repositoryimplementation\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0510AE1-751D-47AD-B878-14A8C52C8527}|api.Infrastructure\\api.Infrastructure.csproj|solutionrelative:api.infrastructure\\repositoryimplementation\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6AE8DCA-C1CF-49D7-AA10-8749BC3600D5}|api.Domain\\api.Domain.csproj|c:\\users\\jonatas\\desktop\\sites-e-webapps\\pessoais\\todolist-app\\api\\api.domain\\repositoryinterface\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6AE8DCA-C1CF-49D7-AA10-8749BC3600D5}|api.Domain\\api.Domain.csproj|solutionrelative:api.domain\\repositoryinterface\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E0CF86-EEA8-45E0-AE07-E8F443A54CBF}|api.Application\\api.Application.csproj|c:\\users\\jonatas\\desktop\\sites-e-webapps\\pessoais\\todolist-app\\api\\api.application\\tododtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E0CF86-EEA8-45E0-AE07-E8F443A54CBF}|api.Application\\api.Application.csproj|solutionrelative:api.application\\tododtos\\createtododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AB4472-E019-4904-A1BD-1AC4298B3120}|api.Presentation\\api.Presentation.csproj|c:\\users\\jonatas\\desktop\\sites-e-webapps\\pessoais\\todolist-app\\api\\api.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2AB4472-E019-4904-A1BD-1AC4298B3120}|api.Presentation\\api.Presentation.csproj|solutionrelative:api.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Application\\UseCaseInterface\\ITaskService.cs",
+              "RelativeDocumentMoniker": "api.Application\\UseCaseInterface\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Application\\UseCaseInterface\\ITaskService.cs",
+              "RelativeToolTip": "api.Application\\UseCaseInterface\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:07:53.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Domain\\RepositoryInterface\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "api.Domain\\RepositoryInterface\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Domain\\RepositoryInterface\\ITodoRepository.cs",
+              "RelativeToolTip": "api.Domain\\RepositoryInterface\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:07:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Infrastructure\\RepositoryImplementation\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "api.Infrastructure\\RepositoryImplementation\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Infrastructure\\RepositoryImplementation\\TodoRepository.cs",
+              "RelativeToolTip": "api.Infrastructure\\RepositoryImplementation\\TodoRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:03:42.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "api.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "api.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:03:36.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTodoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Application\\TodoDTOs\\CreateTodoDTO.cs",
+              "RelativeDocumentMoniker": "api.Application\\TodoDTOs\\CreateTodoDTO.cs",
+              "ToolTip": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Application\\TodoDTOs\\CreateTodoDTO.cs",
+              "RelativeToolTip": "api.Application\\TodoDTOs\\CreateTodoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:41:00.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Application\\UseCaseImplementation\\TodoService.cs",
+              "RelativeDocumentMoniker": "api.Application\\UseCaseImplementation\\TodoService.cs",
+              "ToolTip": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Application\\UseCaseImplementation\\TodoService.cs",
+              "RelativeToolTip": "api.Application\\UseCaseImplementation\\TodoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:40:32.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Presentation\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "api.Presentation\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Presentation\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "api.Presentation\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:40:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "api.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\todolist-app\\api\\api.Presentation\\appsettings.json",
+              "RelativeToolTip": "api.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T09:33:52.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
